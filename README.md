@@ -1,4 +1,4 @@
 # MIK Sandbox
 MI Koalíció - Sandbox
 Közösségi projekteket támogató repository
-(tesztelési céllal létrehozott tudástár)
+(nem hivatalos, tesztelési céllal létrehozott tudástár)
