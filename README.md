@@ -16,5 +16,7 @@ https://hilanco.github.io
    - a tréning és a finomhangolás ellenőrzőpontja pedig innen (95 GB) > https://polka.nytud.hu/full
    - A modellt "Bolka" nevű DGX-A100 szerveren képeztük ki.
 
-- Hilanco-GPTX Angol-Magyar (!!!) model
-   - hamarosan elérhető !
+<update: 2022.06.11>
+- Hilanco-GPTX Angol-MAGYAR(!) model
+   - Tesztelhető az alábbi linken: https://juniper.nytud.hu/demo/gpt3
+   - Teszteléshez segítség a wiki oldalon: https://github.com/dataandai/Hungarian-gpt-3/wiki
