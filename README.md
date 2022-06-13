@@ -19,4 +19,6 @@ https://hilanco.github.io
 <update: 2022.06.11>
 - Hilanco-GPTX Angol-MAGYAR(!) model
    - Tesztelhető az alábbi linken: https://juniper.nytud.hu/demo/gpt3
-   - Teszteléshez segítség a wiki oldalon: https://github.com/dataandai/Hungarian-gpt-3/wiki
+   - Teszteléshez segítség az alábbi oldalakon:
+    - https://github.com/dataandai/Hungarian-gpt-3/wiki
+    - https://github.com/dataandai/Hungarian-gpt-3
